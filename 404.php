@@ -16,6 +16,8 @@ get_header();
 		<main id="main" class="site-main">
 
 			<div class="error-404 not-found">
+			<img href="https://sitechecker.pro/wp-content/uploads/2017/12/404.png" />
+
 				<header class="page-header">
 					<h1 class="page-title"><?php _e( 'Oops! That page can&rsquo;t be found.', 'twentynineteen' ); ?></h1>
 				</header><!-- .page-header -->
